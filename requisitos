@@ -1,0 +1,22 @@
+Conjunto de tarefas
+	-Lista de tarefas  
+	-Pertence a um usuário 
+	-Exclui e adiciona tarefas
+Tarefa
+	-Pertence a apenas um conjunto
+	-Id
+	-String (descricao)
+	-Status (Pendente, Concluída)
+	-Data de conclusão
+Usuário 
+	-Nome 
+	-login
+	-Senha
+	-Lista de conjunto de tarefas 
+		-Pode ter vários conjuntos
+
+
+
+Security Auth2
+Grant authorization code 
+
